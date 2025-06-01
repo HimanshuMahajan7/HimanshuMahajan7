@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @HimanshuMahajan7
+- 👋 Hi, I’m @Himanshu Mahajan
+- 🌱 Looking for an opportunity to build things from scratch.
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning ML & Android 
-- 💞️ I’m looking to collaborate on Backend, Node, Python, Android, ML
+- 💞️ I’m looking to collaborate on Backend, Java, Node
 - 📫 How to reach me www.linkedin.com/in/himanshu-mahajan
 
 <!---
